@@ -1,1 +1,1 @@
-# component-principles
+# Applying component-principles to Spring Boot App
